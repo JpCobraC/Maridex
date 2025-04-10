@@ -1,2 +1,2 @@
-### Maridex
-# Seu app de marido de aluguel.
+# Maridex
+## Seu app de marido de aluguel.
